@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Octavian-Teodor Dragon
 ---
 
+This website is currently under construction.
